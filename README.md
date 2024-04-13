@@ -1,2 +1,3 @@
-# 15-homework
-weekly schedule
+npm install bcrypt prompt-sync
+
+node index.js
